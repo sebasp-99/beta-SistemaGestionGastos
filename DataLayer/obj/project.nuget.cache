@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "cpXSKIAxks4wwbab3ex7QIJeMjjlM59twQXtl6GSjBgJILVjkZUXF+ALTHFs+MoEovhE5bcRTjmAOcfPrToHzA==",
+  "dgSpecHash": "h1nf01r8ghc1WVAFmOcqvUY1rtAk10YNXBQIcKqTV1vj6yQVXvVuB87q9lTc7jSoZKj1prymTcj0bJ0MG4MUEw==",
   "success": true,
   "projectFilePath": "C:\\Users\\USUARIO\\Documents\\ProyectoNCapas\\DataLayer\\DataLayer.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\9.0.4\\microsoft.entityframeworkcore.tools.9.0.4.nupkg.sha512"
+  ],
   "logs": []
 }
