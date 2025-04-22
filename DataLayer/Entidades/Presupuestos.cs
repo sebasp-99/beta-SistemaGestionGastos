@@ -6,4 +6,5 @@ public class Presupuestos {
     public decimal Limite { get ; set ; }
     public date FechaInicio{ get ; set ; }
     public date FechaFin {get ; sbyte; }
+    
 }
